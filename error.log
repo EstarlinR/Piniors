@@ -129,3 +129,65 @@
 [19-May-2023 21:39:38 UTC] Hello, errors!
 [19-May-2023 21:40:48 UTC] Hello, errors!
 [19-May-2023 21:40:59 UTC] Hello, errors!
+[21-May-2023 04:21:56 UTC] Hello, errors!
+[21-May-2023 04:21:56 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: C:\Users\elyig\OneDrive\Escritorio\Piniors\config/.env does not exist in C:\Users\elyig\OneDrive\Escritorio\Piniors\config\dotenv.php:16
+Stack trace:
+#0 C:\Users\elyig\OneDrive\Escritorio\Piniors\config\config.php(23): DotEnv->__construct('C:\\Users\\elyig\\...')
+#1 C:\Users\elyig\OneDrive\Escritorio\Piniors\index.php(21): require_once('C:\\Users\\elyig\\...')
+#2 {main}
+  thrown in C:\Users\elyig\OneDrive\Escritorio\Piniors\config\dotenv.php on line 16
+[21-May-2023 04:22:10 UTC] Hello, errors!
+[21-May-2023 04:22:10 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: C:\Users\elyig\OneDrive\Escritorio\Piniors\config/.env does not exist in C:\Users\elyig\OneDrive\Escritorio\Piniors\config\dotenv.php:16
+Stack trace:
+#0 C:\Users\elyig\OneDrive\Escritorio\Piniors\config\config.php(23): DotEnv->__construct('C:\\Users\\elyig\\...')
+#1 C:\Users\elyig\OneDrive\Escritorio\Piniors\index.php(21): require_once('C:\\Users\\elyig\\...')
+#2 {main}
+  thrown in C:\Users\elyig\OneDrive\Escritorio\Piniors\config\dotenv.php on line 16
+[21-May-2023 04:24:04 UTC] Hello, errors!
+[21-May-2023 04:24:04 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[21-May-2023 04:40:22 UTC] Hello, errors!
+[21-May-2023 04:40:22 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[21-May-2023 12:27:09 UTC] Hello, errors!
+[21-May-2023 12:27:09 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[21-May-2023 12:27:16 UTC] Hello, errors!
+[21-May-2023 12:27:16 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[21-May-2023 12:27:20 UTC] Hello, errors!
+[21-May-2023 12:27:20 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[22-May-2023 22:11:40 UTC] Hello, errors!
+[22-May-2023 22:11:41 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[22-May-2023 22:11:43 UTC] Hello, errors!
+[22-May-2023 22:11:43 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[26-May-2023 13:16:59 UTC] Hello, errors!
+[26-May-2023 13:16:59 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[26-May-2023 13:38:58 UTC] Hello, errors!
+[26-May-2023 13:38:59 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[26-May-2023 13:45:53 UTC] Hello, errors!
+[26-May-2023 13:45:54 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[26-May-2023 13:54:41 UTC] Hello, errors!
+[26-May-2023 13:54:41 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[27-May-2023 13:18:13 UTC] Hello, errors!
+[27-May-2023 13:18:13 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[27-May-2023 15:33:16 UTC] Hello, errors!
+[27-May-2023 15:33:16 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[27-May-2023 15:37:33 UTC] Hello, errors!
+[27-May-2023 15:37:33 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[27-May-2023 15:37:41 UTC] Hello, errors!
+[27-May-2023 15:37:41 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[02-Jun-2023 11:12:05 UTC] Hello, errors!
+[02-Jun-2023 11:12:06 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[02-Jun-2023 11:12:14 UTC] Hello, errors!
+[02-Jun-2023 11:12:14 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[02-Jun-2023 11:12:29 UTC] Hello, errors!
+[02-Jun-2023 11:12:29 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[02-Jun-2023 11:13:09 UTC] Hello, errors!
+[02-Jun-2023 11:13:09 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[02-Jun-2023 11:13:21 UTC] Hello, errors!
+[02-Jun-2023 11:13:21 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[02-Jun-2023 11:13:28 UTC] Hello, errors!
+[02-Jun-2023 11:13:28 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[02-Jun-2023 11:13:31 UTC] Hello, errors!
+[02-Jun-2023 11:13:31 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[02-Jun-2023 11:13:33 UTC] Hello, errors!
+[02-Jun-2023 11:13:33 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
+[03-Jun-2023 15:17:54 UTC] Hello, errors!
+[03-Jun-2023 15:17:54 UTC] PHP Warning:  Undefined array key "level" in C:\Users\elyig\OneDrive\Escritorio\Piniors\libs\View.php on line 10
